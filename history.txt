@@ -1,4 +1,4 @@
-    1  exit
+1    1  exit
     2  sudo apt-get update
     3  sudo apt-get upgrade -y
     4  exit
@@ -355,3 +355,28 @@
   355  history 
   356* 
   357  history >> history.txt
+  358  cat history.txt 
+  359  git init plexhistory
+  360  git status
+  361  ll
+  362  mv history.txt plexhistory/
+  363  cd plexhistory/
+  364  ll
+  365  git status
+  366  git status 
+  367  git add history.txt 
+  368  git status 
+  369  git commit -m "set up plexbox on ubuntu
+"
+  370  git config --global user.email "raymondfb@gmail.com"
+  371  git config --global user.name "raymond"
+  372  git commit -m "set up plexbox on ubuntu
+"
+  373  git status 
+  374  history >> history.txt
+  375  git status 
+  376  git add history.txt 
+  377  git status 
+  378  git diff history.txt
+  379  history > history.txt
+added for git learning

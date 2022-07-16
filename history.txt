@@ -1,0 +1,357 @@
+    1  exit
+    2  sudo apt-get update
+    3  sudo apt-get upgrade -y
+    4  exit
+    5  sudo apt-get update
+    6  sudo apt-get upgrade -y
+    7  sudo apt-get dist-upgrade 
+    8  sudo apt-get updat
+    9  sudo apt-get update
+   10  sudo apt-get upgrade -y
+   11  exit
+   12  wget https://downloads.plex.tv/plex-media-server-new/1.24.4.5081-e362dc1ee/debian/plexmediaserver_1.24.4.5081-e362dc1ee_amd64.deb
+   13  sudo dpkg -i plexmediaserver_1.24.4.5081-e362dc1ee_amd64.deb 
+   14  sudo reboot
+   15  df -h
+   16  sudo fdisk -l
+   17  sudo mount /dev/sdb2 /media/plexusbdrive
+   18  mkdir /media/plexusbdrive
+   19  sudo mkdir /media/plexusbdrive
+   20  sudo mount /dev/sdb2 /media/plexusbdrive
+   21  df -h
+   22  sudo mount /dev/sdb2 /media/plexusbdrive
+   23  sudo fdisk -l
+   24  sudo mount /dev/sdb1 /media/plexusbdrive
+   25  df -h
+   26  cd /media/plexusbdrive/
+   27  ll
+   28  cd Movies/
+   29  ll
+   30  cd ..
+   31  ll
+   32  df -h
+   33  sudo mount /dev/sdb1 /media/plexusbdrive
+   34  exit
+   35  wget https://downloads.plex.tv/plex-media-server-new/1.24.5.5173-8dcc73a59/debian/plexmediaserver_1.24.5.5173-8dcc73a59_amd64.deb
+   36  sudo dpkg -i plexmediaserver_1.24.
+   37  sudo apt-get update
+   38  sudo apt-get upgrade -y
+   39  sudo dpkg -i plexmediaserver_1.24.5.5173-8dcc73a59_amd64.deb 
+   40  exit
+   41  sudo mount /dev/sdb1 /media/plexusbdrive
+   42  df -h
+   43  exit
+   44  ifconfig
+   45  ipconfig
+   46  eixt
+   47  ifconfig
+   48  exi
+   49  exit
+   50  sudo mount /dev/sdb1 /media/plexusbdrive
+   51  exit
+   52  ip address
+   53  mount
+   54  df -h
+   55  history 
+   56  sudo mount /dev/sdb1 /media/plexusbdrive
+   57  df -h
+   58  clear
+   59  mount
+   60  clear
+   61  cat /etc/fstab 
+   62  fdisk -l
+   63  sudo fdisk -l
+   64  ls -al /dev/disk/by-uuid/
+   65  sudo nano /etc/fstab 
+   66  df -h
+   67  sudo nano /etc/fstab 
+   68  findmnt --verify
+   69  sudo findmnt --verify
+   70  reboot
+   71  sudo reboot
+   72  df -h
+   73  ls /media/plexusbdrive/
+   74  ls /media/plexusbdrive/Movies/
+   75  pwd
+   76  ls /media/plexusbdrive
+   77  cd /media/plexusbdrive/
+   78  ll
+   79  ls NVR/
+   80  pwd
+   81  cd CKuBand/
+   82  ll
+   83  ll -h
+   84  ffmeg
+   85  sudo apt get ffmpeg
+   86  sudo apt-get ffmpeg
+   87  sudo apt install ffmpeg
+   88  ll
+   89  ffmpeg -i '20201225_131936.ts' -c:v libx264 -c:a copy 20201225_131936.mp4
+   90  ll
+   91  ll -h
+   92  exiyt
+   93  exit
+   94  ping yahoo.com
+   95  ping www.yahoo.com
+   96  ping www.yahoo.com -f
+   97  ing www.yahoo.c -f -l 1492
+   98  ping yahoo.comexit
+   99  exit
+  100  sudo apt-get update
+  101  sudo apt-get upgrade 
+  102  sudo reboot
+  103  sudo apt-get dist-upgrade 
+  104  echo deb https://downloads.plex.tv/repo/deb public main | sudo tee /etc/apt/sources.list.d/plexmediaserver.list
+  105  curl https://downloads.plex.tv/plex-keys/PlexSign.key | sudo apt-key add -
+  106  sudo apt-get update
+  107  sudo apt-get upgrade 
+  108  exit
+  109  sudo apt-get update
+  110  sudo apt-get upg
+  111  sudo apt-get upgrade 
+  112  sudo apt dist-upgrade 
+  113  sudo apt install qemu-guest-agent 
+  114  sudo power off
+  115  sudo powerofff
+  116  sudo poweroff
+  117  sudo systemsctl status qemu-guest-agent.service
+  118  sudo systemctl status qemu-guest-agent.service
+  119  exit
+  120  sudo apt-get update
+  121  sudo apt-get upgrade 
+  122  sudo apt-get dist-upgrade 
+  123  exit
+  124  sudo apt-get update
+  125  sudo apt-get upgrade -y
+  126  sudo apt-get dist-upgrade 
+  127  sudo reboot
+  128  history 
+  129  uptime
+  130  top
+  131  clear
+  132  exit
+  133  lsblk
+  134  which ncdu
+  135  sudo apt install ncdu
+  136  cd /
+  137  sudo ncdu
+  138  sudo ncdu /
+  139  history 
+  140  sudo systemsctl status qemu-guest-agent.service
+  141  history 
+  142  sudo systemsctl status qemu-guest-agent.service
+  143  sudo systemctl status qemu-guest-agent.service
+  144  sudo ncdu
+  145  cat /etc/fstab 
+  146  clear
+  147  cat /etc/fstab 
+  148  exit
+  149  cat /etc/fstab
+  150  blkid
+  151  clear
+  152  blkid
+  153  sudo reboot
+  154  exit
+  155  df -h
+  156  exit
+  157  sudo apt update
+  158  sudo apt upg
+  159  sudo apt upgrade 
+  160  exit
+  161  df -h
+  162  history 
+  163  mount
+  164  cat /etc/fstab 
+  165  history 
+  166  sudo fdisk -l
+  167  sudo fdisk -l >> fdisklist1
+  168  cat fdisklist1 
+  169  exit
+  170  sudo fdisk -l >> fdisklist2
+  171  ll
+  172  diff fdisklist1 fdisklist2
+  173  history 
+  174  sudo fdisk -l
+  175  sudo blkid
+  176  sudo fdisk -l
+  177  sudo blkid
+  178  history 
+  179  ls -al /dev/disk/by-uuid/
+  180  cat /etc/fstab 
+  181  ls /media/plexusbdrive/
+  182  cd /media/plexusbdrive/
+  183  cd TVShows/
+  184  ll
+  185  exit
+  186  sudo apt update
+  187  sudo apt upgrade 
+  188  exit
+  189  ping cbs.com
+  190  sudo apt update
+  191  sudo apt upgrade 
+  192  exit
+  193  ip a
+  194  sudo reboot
+  195  top
+  196  mtr
+  197  mtr 24.93.68.64
+  198  qqqqq
+  199  exit
+  200  ping pve
+  201  ping pve.local.lan
+  202  ping cnn.com
+  203  ping pve.local.lan
+  204  ping pve
+  205  dig pve
+  206  exit
+  207  ping pve.local.lan
+  208  ping pve
+  209  exit
+  210  sudo apt update
+  211  sudo apt upgrade -y
+  212  sudo apt update
+  213  sudo apt upgrade -y
+  214  sudo apt dist-upgrade 
+  215  sudo apt autoclean 
+  216  exit
+  217  sudo reboot
+  218  ip a
+  219  exit
+  220  htop
+  221  exit
+  222  df -h
+  223  mount
+  224  ll
+  225  df -h
+  226  ls /dev/sdb1
+  227  cd /media/plexusbdrive/
+  228  ll
+  229  cd TVShows/
+  230  ll
+  231  ll "Gunsmoke/
+  232  ll "Gunsmoke"
+  233  exit
+  234  sudo apt update
+  235  sudo apt upgrade 
+  236  exit
+  237  sudo reboot
+  238  exit
+  239  sudo apt update
+  240  sudo apt upgrade 
+  241  top
+  242  sudo apt dist-upgrade 
+  243  sudo apt autoremove 
+  244  sudo reboot
+  245  history 
+  246  exit
+  247  sudo apt update
+  248  sudo apt upgrade 
+  249  exit
+  250  exity
+  251  exit
+  252  dig cnn.com
+  253  ifconfig
+  254  ip -a
+  255  ip 
+  256  nslookup nbc.com
+  257  ip
+  258  ip -d
+  259  name
+  260  exit
+  261  ip -d
+  262  sudo apt update
+  263  sudo apt upgrade
+  264  sudo reboot
+  265  exit
+  266  history
+  267  exit
+  268  sudo apt update
+  269  sudo apt upgrade 
+  270  sudo reboot
+  271  sudo apt-get update
+  272  sudo apt-get upgrade -y
+  273  sudo reboot 
+  274  exit
+  275  sudo apt-get update
+  276  sudo apt-get upgrade -y
+  277  sudo reboot 
+  278  sudo apt update
+  279  sudo apt upgrade 
+  280  exit
+  281  sudo reboot
+  282  exit
+  283  sudo apt update
+  284  sudo apt upgrade 
+  285  sudo reboot
+  286  exit
+  287  sudo apt update
+  288  sudo apt upgrade 
+  289  sudo reboot
+  290  exit
+  291  sudo apt update
+  292  sudo apt upgrade -y
+  293  sudo reboot
+  294  sudo apt update
+  295  sudo apt upgrade -y
+  296  sudo apt update
+  297  sudo apt upgrade -y
+  298  sudo apt autoremove 
+  299  exity
+  300  exit
+  301  sudo apt update && upgrade -y && reboot
+  302  sudo apt upgrade 
+  303  sudo reboot
+  304  exit
+  305  sudo reboot
+  306  sudo apt update
+  307  sudo apt upgrade 
+  308  sudo reboot
+  309  exit
+  310  sudo apt update
+  311  sudo apt upgrade 
+  312  sudo reboot
+  313  exit
+  314  sudo apt install youtube-dl
+  315  youtube-dl https://www.youtube.com/watch?v=5Je3ZRm699Y&t=533s
+  316  youtube-dl
+  317  youtube-dl -G
+  318  youtube-dl -h
+  319  sudo youtube-dl https://www.youtube.com/watch?v=5Je3ZRm699Y&t=533s
+  320  sudo youtube-dl --update
+  321  sudo apt update
+  322  sudo apt upgrade 
+  323  exit
+  324  sudo reboot
+  325  exit
+  326  sudo timedatectl set-timezone America/New_York
+  327  date
+  328  exit
+  329  sudo apt update
+  330  sudo apt upgrade 
+  331  exit
+  332  history | grep update
+  333  sudo apt update && upgrade -y && reboot
+  334  sudo apt update && sudo apt upgrade -y && reboot
+  335  exit
+  336  sudo reboot
+  337  exit
+  338  which python
+  339  sudo apt install python3
+  340  exit
+  341  sudo reboot
+  342  df -h
+  343  ls /media/plexusbdrive/
+  344  ll /media/plexusbdrive/
+  345  exit
+  346  cat /var/run/reboot-required
+  347  exit
+  348  htop
+  349  free
+  350  free -m
+  351  history 
+  352  which git
+  353  free -m
+  354  df -h
+  355  history 
+  356* 
+  357  history >> history.txt
